@@ -1,0 +1,37 @@
+/* App.css */
+
+.mainContainer{
+    width:400px;
+}
+
+
+.imageContainer{
+    margin: 20px;
+    padding: 20px;
+}
+
+
+.parentDiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center the cards horizontally */
+  }
+
+
+  
+  
+  
+  .imageContainer img {
+    max-width: 100%;
+    height: auto;
+   
+  }
+  
+
+
+ 
+  /* Center the title and button */
+  h1, .btn ,p {
+    text-align: center;
+  }
+  
